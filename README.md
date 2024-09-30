@@ -1,5 +1,5 @@
 
-# GITDOG
+# GitDog
 
 
 ```javascript
