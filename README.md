@@ -1,6 +1,6 @@
 # GitDog
 
-https://pump.fun/
+https://pump.fun/GhfNkj7vy7q228f5hrAuQhwPLr4F68iHL84iXrospump
 
 
 ```javascript
@@ -13,7 +13,7 @@ https://pump.fun/
 import { pump,sol } from "@instantdb/solana";
 
 const db = init({ 
-  ca:,
+  ca:GhfNkj7vy7q228f5hrAuQhwPLr4F68iHL84iXrospump,
 });
 
 function Chat() {
