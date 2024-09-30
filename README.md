@@ -1,7 +1,7 @@
 
 # GitDog
 
-https://pump.fun/H4d53sCutRSYDX5J6SefscZn1usH8LpBWZCsFdZnpump
+https://pump.fun/
 
 
 ```javascript
@@ -14,7 +14,7 @@ https://pump.fun/H4d53sCutRSYDX5J6SefscZn1usH8LpBWZCsFdZnpump
 import { pump,sol } from "@instantdb/solana";
 
 const db = init({ 
-  ca:H4d53sCutRSYDX5J6SefscZn1usH8LpBWZCsFdZnpump,
+  ca:,
 });
 
 function Chat() {
