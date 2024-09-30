@@ -1,7 +1,11 @@
 //U·ェ·U Pumpfun GitDog Chat
+
 // ----------------------------------
+
 // * Updates instantly
+
 // * Multiplayer
+
 // * Works offline
 
 import { pump,sol } from "@instantdb/solana";
