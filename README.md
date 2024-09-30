@@ -1,11 +1,10 @@
-
 # GitDog
 
 https://pump.fun/
 
 
 ```javascript
-// U·ェ·U Moonshot Gitcat Chat
+// U·ェ·U Pumpfun Gitcat Chat
 // ----------------------------------
 // * Updates instantly
 // * Multiplayer
@@ -31,4 +30,4 @@ function Chat() {
   // 3. Render!
   return <UI data={data} onAdd={addMessage} />;
 }
-```
+
