@@ -1,11 +1,12 @@
-//U·ェ·U Pumpfun GitDog Chat
 
+# GITDOG
+
+
+```javascript
+// U·ェ·U Moonshot Gitcat Chat
 // ----------------------------------
-
 // * Updates instantly
-
 // * Multiplayer
-
 // * Works offline
 
 import { pump,sol } from "@instantdb/solana";
@@ -28,3 +29,4 @@ function Chat() {
   // 3. Render!
   return <UI data={data} onAdd={addMessage} />;
 }
+```
